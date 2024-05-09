@@ -16,5 +16,8 @@ I'm a recent &lt;u&gt;Computing Science / Business&lt;/u&gt; graduate from Unive
 
 ### Some of my past experiences! 
 
-- **Palantir** - End-to-end integration of AIP (Palantir's leading AI Platform) into our team's platform
-- **Niricson Software Inc** -  Developing a dashboard to visualize 500,000+ vectorized geospatial geometries without performance issues, implementing an ad-hoc analysis tools based on geospatial data, and talking with clients directly to understand needs!
+**Palantir** - New York City, USA - 2023
+
+**Niricson Software Inc** -  Victoria, Canada - 2022
+
+**Students for Machine Learning in Business** - Edmonton, Canada - 2021 
