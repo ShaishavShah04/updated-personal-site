@@ -10,18 +10,9 @@ coverImage: ''
 publishedAt: '2023-12-28T18:49:02.348Z'
 ---
 
-## Hey, I'm Andre! 👋
+## Hey, I'm Shaishav! 👋
 
-🤖 Product Developer & Designer\
-🇧🇷 From Maceió, Brazil\
-🌟 Completed web projects for over [50 clients](https://www.upwork.com/freelancers/andrevitorio)
-
-### Some personal projects I built 👨🏻‍💻
-
-✍️ CMS for Static Websites - [Outstatic](https://outstatic.com)\
-🎨 Unlimited Design - [Pacy](https://pacy.co/)\
-🚶🏻‍♀️ Taking you for a walk - [Outside Simulator](https://outsidesimulator.com/)\
-🌐 Helping you find the perfect domain - [Namelazy](https://namelazy.com)
+I'm a recent Computer Science / Business graduate from University of Alberta.  
 
 ### Tech I use 🎛️
 
