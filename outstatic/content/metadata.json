@@ -1,6 +1,6 @@
 {
-  "commit": "9af5a298de841c208531aa8f8b8d3f1d61dd2634",
-  "generated": "2024-05-09T23:23:11.229Z",
+  "commit": "943ba06bfddf45407f073f213d816e190eb73074",
+  "generated": "2024-05-09T23:25:16.057Z",
   "metadata": [
     {
       "__outstatic": {
@@ -179,6 +179,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "943ba06bfddf45407f073f213d816e190eb73074",
+        "hash": "226574300",
+        "path": "outstatic/content/experiences/palantir.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "experiences",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-09T22:49:05.529Z",
+      "slug": "palantir",
+      "status": "draft",
+      "title": "Palantir"
     }
   ]
 }
