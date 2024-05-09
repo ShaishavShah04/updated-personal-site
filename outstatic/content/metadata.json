@@ -1,6 +1,6 @@
 {
-  "commit": "599762469e00795adc46542d9df14076b9d33d9b",
-  "generated": "2024-05-09T23:25:47.199Z",
+  "commit": "ed3713a314d4bd15270fe48aadadb158a6fd0f99",
+  "generated": "2024-05-09T23:42:55.993Z",
   "metadata": [
     {
       "__outstatic": {
@@ -146,24 +146,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7dc522db3a32e692a4682a9232f1a31cef1535ab",
-        "hash": "1022366418",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "I'm Andre, a product developer and designer from Maceió, Brazil",
-      "publishedAt": "2023-12-28T18:49:02.348Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About Me"
-    },
-    {
-      "__outstatic": {
         "commit": "9af5a298de841c208531aa8f8b8d3f1d61dd2634",
         "hash": "3445097132",
         "path": "outstatic/content/pages/home.md"
@@ -197,6 +179,24 @@
       "slug": "palantir",
       "status": "published",
       "title": "Palantir"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed3713a314d4bd15270fe48aadadb158a6fd0f99",
+        "hash": "3789188076",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "I'm Shaishav, a software engineer!",
+      "publishedAt": "2023-12-28T18:49:02.348Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About Me"
     }
   ]
 }
