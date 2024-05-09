@@ -1,6 +1,6 @@
 {
-  "commit": "7dc522db3a32e692a4682a9232f1a31cef1535ab",
-  "generated": "2024-05-09T23:01:42.950Z",
+  "commit": "9af5a298de841c208531aa8f8b8d3f1d61dd2634",
+  "generated": "2024-05-09T23:23:11.229Z",
   "metadata": [
     {
       "__outstatic": {
@@ -146,24 +146,6 @@
     },
     {
       "__outstatic": {
-        "commit": "11d895706bb7b259b3793f8c608e8fadb3cb2065",
-        "hash": "2943171101",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "7dc522db3a32e692a4682a9232f1a31cef1535ab",
         "hash": "1022366418",
         "path": "outstatic/content/pages/about.md"
@@ -179,6 +161,24 @@
       "slug": "about",
       "status": "published",
       "title": "About Me"
+    },
+    {
+      "__outstatic": {
+        "commit": "9af5a298de841c208531aa8f8b8d3f1d61dd2634",
+        "hash": "3445097132",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
