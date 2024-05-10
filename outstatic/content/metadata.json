@@ -1,6 +1,6 @@
 {
-  "commit": "477670e0949eb0d5ef7a71c5657c0da30ea484dc",
-  "generated": "2024-05-10T03:24:21.734Z",
+  "commit": "45a4eadfcc117e0f48cfd07d5cb8aac19fad8fba",
+  "generated": "2024-05-10T03:25:19.703Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,24 +65,6 @@
       "slug": "outstatic-the-cms-for-nextjs",
       "status": "published",
       "title": "Outstatic - The CMS for Next.js"
-    },
-    {
-      "__outstatic": {
-        "commit": "70f53378cbe8e23e9e155748f6102aa28a8a4067",
-        "hash": "3240539151",
-        "path": "outstatic/content/projects/outsidesimulator.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/outside-simulator-I5MD.webp",
-      "description": "Escape to the Outdoors, Virtually.",
-      "publishedAt": "2024-01-08T06:11:26.000Z",
-      "slug": "outsidesimulator",
-      "status": "published",
-      "title": "OutsideSimulator.com"
     },
     {
       "__outstatic": {
