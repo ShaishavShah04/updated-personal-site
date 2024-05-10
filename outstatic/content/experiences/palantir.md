@@ -6,8 +6,8 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
 slug: 'palantir'
 description: 'My time @ Palantir!'
-coverImage: 'https://images.ctfassets.net/xrfr7uokpv1b/5MGQnj3IDJpURPzBDnXklZ/b7eed64a4f71a959250e19ec76bdf5de/Palantir_Chevron.png'
-publishedAt: '2024-05-09T22:49:05.529Z'
+coverImage: '/images/palantir_chevron-E0MD.png'
+publishedAt: '2024-05-10T22:49:05.000Z'
 ---
 
 I really enjoyed my time at Palantir! I working across the entire stack, responsible for ensuring the backend and frontend all had the necessary changes to bring my features to life. I was placed within a great team, and was working on the interesting AIP (Palantir's AI offering) related work within the company. Here are a few notable achievements from my time there:\
