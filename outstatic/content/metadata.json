@@ -1,6 +1,6 @@
 {
   "commit": "45a4eadfcc117e0f48cfd07d5cb8aac19fad8fba",
-  "generated": "2024-05-10T03:25:19.703Z",
+  "generated": "2024-05-10T03:25:22.094Z",
   "metadata": [
     {
       "__outstatic": {
@@ -50,21 +50,21 @@
     },
     {
       "__outstatic": {
-        "commit": "9dcf0172a2ecbf2fc49795c8122644bfb510d2a0",
-        "hash": "3054560019",
-        "path": "outstatic/content/projects/outstatic-the-cms-for-nextjs.md"
+        "commit": "70f53378cbe8e23e9e155748f6102aa28a8a4067",
+        "hash": "3240539151",
+        "path": "outstatic/content/projects/outsidesimulator.md"
       },
       "author": {
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/outstatic-screenshot-Y0ND.png",
-      "description": "Outstatic is an Open Source CMS that offers a user-friendly interface for managing and organizing website content.",
-      "publishedAt": "2024-01-20T01:53:49.631Z",
-      "slug": "outstatic-the-cms-for-nextjs",
+      "coverImage": "/images/outside-simulator-I5MD.webp",
+      "description": "Escape to the Outdoors, Virtually.",
+      "publishedAt": "2024-01-08T06:11:26.000Z",
+      "slug": "outsidesimulator",
       "status": "published",
-      "title": "Outstatic - The CMS for Next.js"
+      "title": "OutsideSimulator.com"
     },
     {
       "__outstatic": {
