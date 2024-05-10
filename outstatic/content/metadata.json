@@ -1,35 +1,7 @@
 {
-  "commit": "45a4eadfcc117e0f48cfd07d5cb8aac19fad8fba",
-  "generated": "2024-05-10T03:25:24.238Z",
+  "commit": "96289da3aadd45ff5b6dc988de65b6fc7fdffdc7",
+  "generated": "2024-05-10T03:33:35.298Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "056337c6ec4b1a28f693f8068e1a116eaef5f7e7",
-        "hash": "2721406306",
-        "path": "outstatic/content/posts/add-a-free-cms-to-your-nextjs-website-with-outstatic.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/outstatic-landing-M3MT.png",
-      "description": "Learn how to seamlessly integrate Outstatic into your Next.js website.",
-      "publishedAt": "2024-01-11T20:59:36.724Z",
-      "slug": "add-a-free-cms-to-your-nextjs-website-with-outstatic",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        },
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        }
-      ],
-      "title": "Add a free CMS to your Next.js website with Outstatic"
-    },
     {
       "__outstatic": {
         "commit": "9dcf0172a2ecbf2fc49795c8122644bfb510d2a0",
