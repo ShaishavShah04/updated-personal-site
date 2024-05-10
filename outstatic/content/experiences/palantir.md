@@ -5,8 +5,8 @@ author:
   name: 'Shaishav Shah'
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
 slug: 'palantir'
-description: ''
-coverImage: ''
+description: 'My time @ Palantir!'
+coverImage: 'https://images.ctfassets.net/xrfr7uokpv1b/5MGQnj3IDJpURPzBDnXklZ/b7eed64a4f71a959250e19ec76bdf5de/Palantir_Chevron.png'
 publishedAt: '2024-05-09T22:49:05.529Z'
 ---
 
