@@ -1,6 +1,6 @@
 {
-  "commit": "c4c7a004175f8ff97ee239b00c9cf1ee305ab059",
-  "generated": "2024-05-10T02:43:57.073Z",
+  "commit": "412a44a1ca1fcaeacc5b5607bdc1680e27ec0925",
+  "generated": "2024-05-10T02:44:07.484Z",
   "metadata": [
     {
       "__outstatic": {
@@ -200,8 +200,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c4c7a004175f8ff97ee239b00c9cf1ee305ab059",
-        "hash": "1428727925",
+        "commit": "412a44a1ca1fcaeacc5b5607bdc1680e27ec0925",
+        "hash": "1748181947",
         "path": "outstatic/content/experiences/niricson-software-inc.md"
       },
       "author": {
