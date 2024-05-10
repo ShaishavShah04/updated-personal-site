@@ -1,6 +1,6 @@
 {
-  "commit": "eda5b80f7b0ac331d98afbcd48cbbad2a1dc9226",
-  "generated": "2024-05-10T02:37:58.549Z",
+  "commit": "c4c7a004175f8ff97ee239b00c9cf1ee305ab059",
+  "generated": "2024-05-10T02:43:57.073Z",
   "metadata": [
     {
       "__outstatic": {
@@ -197,6 +197,24 @@
       "slug": "palantir",
       "status": "published",
       "title": "Palantir"
+    },
+    {
+      "__outstatic": {
+        "commit": "c4c7a004175f8ff97ee239b00c9cf1ee305ab059",
+        "hash": "1428727925",
+        "path": "outstatic/content/experiences/niricson-software-inc.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "experiences",
+      "coverImage": "/images/e4412235fe53fb33ebda19f7863602f2-EwND.jpg",
+      "description": "My time @ Niricson",
+      "publishedAt": "2024-05-10T02:02:13.395Z",
+      "slug": "niricson-software-inc",
+      "status": "published",
+      "title": "Niricson Software Inc."
     }
   ]
 }
