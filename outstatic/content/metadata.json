@@ -1,6 +1,6 @@
 {
-  "commit": "038bfc0a85935897cb0c250d879d2f0e6ff464c3",
-  "generated": "2024-05-11T19:33:43.053Z",
+  "commit": "29a91ccf3deb75a29bf484adde4c42e122ff3129",
+  "generated": "2024-05-11T19:42:31.011Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,6 +73,25 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "29a91ccf3deb75a29bf484adde4c42e122ff3129",
+        "hash": "2166607590",
+        "path": "outstatic/content/projects/memories-a-social-platform.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-11T19:03:50.409Z",
+      "slug": "memories-a-social-platform",
+      "status": "published",
+      "title": "Memories - A Social Platform"
     }
   ]
 }
