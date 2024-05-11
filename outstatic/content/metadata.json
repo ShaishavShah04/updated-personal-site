@@ -1,6 +1,6 @@
 {
-  "commit": "1f18cc5c1b59d49472034f482d5acccbab10c034",
-  "generated": "2024-05-11T20:05:33.783Z",
+  "commit": "3a999c6fa144cbd64bbb24cfff3b2e80f4ad2b3b",
+  "generated": "2024-05-11T20:06:41.316Z",
   "metadata": [
     {
       "__outstatic": {
@@ -132,8 +132,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1f18cc5c1b59d49472034f482d5acccbab10c034",
-        "hash": "402806878",
+        "commit": "3a999c6fa144cbd64bbb24cfff3b2e80f4ad2b3b",
+        "hash": "2812763713",
         "path": "outstatic/content/projects/smartreceipt.md"
       },
       "author": {
@@ -142,7 +142,7 @@
       },
       "category": "Full Stack",
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/app-YyMD.png",
       "description": "Manage Your Spending Wisely! Classify receipts using OCR, and monitor spending habits.",
       "publishedAt": "2024-05-11T19:25:02.947Z",
       "slug": "smartreceipt",

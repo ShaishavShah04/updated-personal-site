@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
 slug: 'smartreceipt'
 description: 'Manage Your Spending Wisely! Classify receipts using OCR, and monitor spending habits.'
-coverImage: ''
+coverImage: '/images/app-YyMD.png'
 category: 'Full Stack'
 publishedAt: '2024-05-11T19:25:02.947Z'
 ---
