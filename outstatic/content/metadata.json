@@ -1,6 +1,6 @@
 {
-  "commit": "4ae0b9ec546c9daa2e0bb55c2f6ac34966c0389a",
-  "generated": "2024-05-11T19:48:42.632Z",
+  "commit": "3f02a9d8b25db91f6d81c5273e51e94a4ef19469",
+  "generated": "2024-05-11T19:52:35.338Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,6 +111,24 @@
       "slug": "market-watch-widget",
       "status": "published",
       "title": "Market Watch Widget"
+    },
+    {
+      "__outstatic": {
+        "commit": "3f02a9d8b25db91f6d81c5273e51e94a4ef19469",
+        "hash": "59427916",
+        "path": "outstatic/content/my-blog/blog-1.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "my-blog",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-11T19:14:13.223Z",
+      "slug": "blog-1",
+      "status": "published",
+      "title": "First Blog Post!"
     }
   ]
 }
