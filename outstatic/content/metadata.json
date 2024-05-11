@@ -1,6 +1,6 @@
 {
-  "commit": "3f02a9d8b25db91f6d81c5273e51e94a4ef19469",
-  "generated": "2024-05-11T19:52:35.338Z",
+  "commit": "1f18cc5c1b59d49472034f482d5acccbab10c034",
+  "generated": "2024-05-11T20:05:33.783Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,6 +129,25 @@
       "slug": "blog-1",
       "status": "published",
       "title": "First Blog Post!"
+    },
+    {
+      "__outstatic": {
+        "commit": "1f18cc5c1b59d49472034f482d5acccbab10c034",
+        "hash": "402806878",
+        "path": "outstatic/content/projects/smartreceipt.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Full Stack",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "Manage Your Spending Wisely! Classify receipts using OCR, and monitor spending habits.",
+      "publishedAt": "2024-05-11T19:25:02.947Z",
+      "slug": "smartreceipt",
+      "status": "published",
+      "title": "SmartReceipt"
     }
   ]
 }
