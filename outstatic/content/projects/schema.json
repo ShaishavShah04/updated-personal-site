@@ -1,0 +1,13 @@
+{
+  "title": "projects",
+  "type": "object",
+  "properties": {
+    "category": {
+      "required": false,
+      "description": "Type of project",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Category"
+    }
+  }
+}
