@@ -1,6 +1,6 @@
 {
-  "commit": "29a91ccf3deb75a29bf484adde4c42e122ff3129",
-  "generated": "2024-05-11T19:42:31.011Z",
+  "commit": "4ae0b9ec546c9daa2e0bb55c2f6ac34966c0389a",
+  "generated": "2024-05-11T19:48:42.632Z",
   "metadata": [
     {
       "__outstatic": {
@@ -92,6 +92,25 @@
       "slug": "memories-a-social-platform",
       "status": "published",
       "title": "Memories - A Social Platform"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ae0b9ec546c9daa2e0bb55c2f6ac34966c0389a",
+        "hash": "2588209573",
+        "path": "outstatic/content/projects/market-watch-widget.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Finance",
+      "collection": "projects",
+      "coverImage": "/images/stock-widget-A4Nz.png",
+      "description": "",
+      "publishedAt": "2024-05-11T19:10:29.031Z",
+      "slug": "market-watch-widget",
+      "status": "published",
+      "title": "Market Watch Widget"
     }
   ]
 }
