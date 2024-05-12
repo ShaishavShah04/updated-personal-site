@@ -49,8 +49,6 @@ In the future, we plan to expand SmartReceipt by adding additional item categori
 Android Studio, Firebase, Java, Machine Learning, OCR, Firebase
 ```
 
-### View Code
-
-Explore our project on [github](https://github.com/ShaishavShah04/Cash-Flow-Management-App) and start managing your spending wisely with SmartReceipt!
+### [Github Link](https://github.com/ShaishavShah04/Cash-Flow-Management-App)
 
 ---

@@ -1,6 +1,6 @@
 {
-  "commit": "7b8c6d8e2cba00d8f265a3a2629e0c5517a78122",
-  "generated": "2024-05-12T02:43:05.270Z",
+  "commit": "1f1c5c3f6feabd70ec7703da32af64271f1b32b4",
+  "generated": "2024-05-12T02:43:39.639Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,25 +94,6 @@
     },
     {
       "__outstatic": {
-        "commit": "3a999c6fa144cbd64bbb24cfff3b2e80f4ad2b3b",
-        "hash": "2812763713",
-        "path": "outstatic/content/projects/smartreceipt.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "category": "Full Stack",
-      "collection": "projects",
-      "coverImage": "/images/app-YyMD.png",
-      "description": "Manage Your Spending Wisely! Classify receipts using OCR, and monitor spending habits.",
-      "publishedAt": "2024-05-11T19:25:02.947Z",
-      "slug": "smartreceipt",
-      "status": "published",
-      "title": "SmartReceipt"
-    },
-    {
-      "__outstatic": {
         "commit": "f3c6debe93e4888281b264e1dee5e5a5f57c5663",
         "hash": "2210521465",
         "path": "outstatic/content/projects/memories-a-social-platform.md"
@@ -148,6 +129,25 @@
       "slug": "market-watch-widget",
       "status": "published",
       "title": "Market Watch Widget"
+    },
+    {
+      "__outstatic": {
+        "commit": "1f1c5c3f6feabd70ec7703da32af64271f1b32b4",
+        "hash": "741989847",
+        "path": "outstatic/content/projects/smartreceipt.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Full Stack",
+      "collection": "projects",
+      "coverImage": "/images/app-YyMD.png",
+      "description": "Manage Your Spending Wisely! Classify receipts using OCR, and monitor spending habits.",
+      "publishedAt": "2024-05-11T19:25:02.947Z",
+      "slug": "smartreceipt",
+      "status": "published",
+      "title": "SmartReceipt"
     }
   ]
 }
