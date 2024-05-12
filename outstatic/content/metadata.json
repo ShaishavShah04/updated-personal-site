@@ -1,6 +1,6 @@
 {
-  "commit": "0caadff57293ed2a262d37b996b64ae66b6239d2",
-  "generated": "2024-05-12T17:26:42.715Z",
+  "commit": "512f6e548c0e203240bcca5b9da6bdaa021e8f14",
+  "generated": "2024-05-12T22:57:29.726Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,24 +73,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "3f02a9d8b25db91f6d81c5273e51e94a4ef19469",
-        "hash": "59427916",
-        "path": "outstatic/content/my-blog/blog-1.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "collection": "my-blog",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-11T19:14:13.223Z",
-      "slug": "blog-1",
-      "status": "published",
-      "title": "First Blog Post!"
     },
     {
       "__outstatic": {
