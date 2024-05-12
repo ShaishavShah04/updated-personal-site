@@ -1,6 +1,6 @@
 {
-  "commit": "32a2fc8675891ca6eecdeffc811a3c2700ba772e",
-  "generated": "2024-05-12T02:48:15.286Z",
+  "commit": "739762fbddc7bebf5bbd3af72a9240b7a9856ceb",
+  "generated": "2024-05-12T02:51:30.130Z",
   "metadata": [
     {
       "__outstatic": {
@@ -167,6 +167,25 @@
       "slug": "carbonoffset",
       "status": "published",
       "title": "CarbonOffset"
+    },
+    {
+      "__outstatic": {
+        "commit": "739762fbddc7bebf5bbd3af72a9240b7a9856ceb",
+        "hash": "3783114268",
+        "path": "outstatic/content/projects/cryptoalerter.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Finance",
+      "collection": "projects",
+      "coverImage": "/images/scanner-k4Nj.png",
+      "description": "Stay ahead in crypto with our real-time, alert-driven Algorithmic Cryptocurrency Scanner!",
+      "publishedAt": "2024-05-12T02:13:22.523Z",
+      "slug": "cryptoalerter",
+      "status": "published",
+      "title": "CryptoAlerter"
     }
   ]
 }
