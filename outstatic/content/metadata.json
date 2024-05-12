@@ -1,6 +1,6 @@
 {
-  "commit": "1f1c5c3f6feabd70ec7703da32af64271f1b32b4",
-  "generated": "2024-05-12T02:43:39.639Z",
+  "commit": "32a2fc8675891ca6eecdeffc811a3c2700ba772e",
+  "generated": "2024-05-12T02:48:15.286Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,6 +148,25 @@
       "slug": "smartreceipt",
       "status": "published",
       "title": "SmartReceipt"
+    },
+    {
+      "__outstatic": {
+        "commit": "32a2fc8675891ca6eecdeffc811a3c2700ba772e",
+        "hash": "1731023878",
+        "path": "outstatic/content/projects/carbonoffset.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Fullstack",
+      "collection": "projects",
+      "coverImage": "/images/carbon-UwMT.png",
+      "description": "Given a tracking number, figure out the recommended donation amount to offset the carbon footprint from your package!",
+      "publishedAt": "2024-05-12T02:09:34.041Z",
+      "slug": "carbonoffset",
+      "status": "published",
+      "title": "CarbonOffset"
     }
   ]
 }
