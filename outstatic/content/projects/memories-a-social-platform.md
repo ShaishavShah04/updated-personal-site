@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
 slug: 'memories-a-social-platform'
 description: 'A social media web-app allowing users to post images/videos along with a caption to showcase memories. '
-coverImage: ''
+coverImage: '/images/ss-kzND.png'
 category: 'Fullstack'
 publishedAt: '2024-05-11T19:03:50.409Z'
 ---

@@ -1,6 +1,6 @@
 {
   "commit": "f3c6debe93e4888281b264e1dee5e5a5f57c5663",
-  "generated": "2024-05-12T02:41:44.977Z",
+  "generated": "2024-05-12T02:42:16.057Z",
   "metadata": [
     {
       "__outstatic": {
@@ -133,7 +133,7 @@
     {
       "__outstatic": {
         "commit": "f3c6debe93e4888281b264e1dee5e5a5f57c5663",
-        "hash": "1887865201",
+        "hash": "2210521465",
         "path": "outstatic/content/projects/memories-a-social-platform.md"
       },
       "author": {
@@ -142,7 +142,7 @@
       },
       "category": "Fullstack",
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/ss-kzND.png",
       "description": "A social media web-app allowing users to post images/videos along with a caption to showcase memories. ",
       "publishedAt": "2024-05-11T19:03:50.409Z",
       "slug": "memories-a-social-platform",
