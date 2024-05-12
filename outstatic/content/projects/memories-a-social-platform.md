@@ -5,13 +5,13 @@ author:
   name: 'Shaishav Shah'
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
 slug: 'memories-a-social-platform'
-description: ''
+description: 'A social media web-app allowing users to post images/videos along with a caption to showcase memories. '
 coverImage: ''
-category: ''
+category: 'Fullstack'
 publishedAt: '2024-05-11T19:03:50.409Z'
 ---
 
-# Memories - A Social Platform 
+# Memories - A Social Platform
 
 Welcome to Memories, where nostalgia meets modern tech! 🚀
 
@@ -33,8 +33,6 @@ MongoDB Cloud, Express JS, React JS, Redux, Node JS, Heroku, Netlify
 
 - **Continuous Deployment**: Thanks to the integration of Netlify, any updates or new features are swiftly deployed, keeping Memories fresh and exciting for our users.
 
-So whether you're looking to relive cherished moments or connect with others over shared experiences, Memories is the perfect place to do it. Join our community today and start making memories! 🌟 
+So whether you're looking to relive cherished moments or connect with others over shared experiences, Memories is the perfect place to do it. 
 
 [Github Link](https://github.com/ShaishavShah04/MERN-Memories-Project)
-
- 
