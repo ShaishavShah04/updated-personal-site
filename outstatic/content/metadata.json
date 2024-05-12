@@ -1,6 +1,6 @@
 {
-  "commit": "32e590469a89206ca1097517450afe35dc70f6b0",
-  "generated": "2024-05-12T02:56:12.978Z",
+  "commit": "eba45774693863262ebb2fbe1e3f1793c2a256cc",
+  "generated": "2024-05-12T03:00:25.380Z",
   "metadata": [
     {
       "__outstatic": {
@@ -186,6 +186,25 @@
       "slug": "market-watch-widget",
       "status": "published",
       "title": "Market Watch Widget"
+    },
+    {
+      "__outstatic": {
+        "commit": "eba45774693863262ebb2fbe1e3f1793c2a256cc",
+        "hash": "3429766361",
+        "path": "outstatic/content/projects/qrhunt.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Mobile App",
+      "collection": "projects",
+      "coverImage": "/images/qrcodegame-QyOT.png",
+      "description": "A captivating game where you compete with others to score nearby QR codes!",
+      "publishedAt": "2024-05-12T02:22:44.634Z",
+      "slug": "qrhunt",
+      "status": "published",
+      "title": "QRHunt"
     }
   ]
 }
