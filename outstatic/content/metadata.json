@@ -1,6 +1,6 @@
 {
-  "commit": "f3c6debe93e4888281b264e1dee5e5a5f57c5663",
-  "generated": "2024-05-12T02:42:16.057Z",
+  "commit": "7b8c6d8e2cba00d8f265a3a2629e0c5517a78122",
+  "generated": "2024-05-12T02:43:05.270Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,25 +113,6 @@
     },
     {
       "__outstatic": {
-        "commit": "19358a439e37c7abfcc969a50cd4e305c522b365",
-        "hash": "2829269771",
-        "path": "outstatic/content/projects/market-watch-widget.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "category": "Finance",
-      "collection": "projects",
-      "coverImage": "/images/stock-widget-A4Nz.png",
-      "description": "A python based widget capable of live data and graphs, stock-specific news, trending tickers, and data recording. ",
-      "publishedAt": "2024-05-11T19:10:29.031Z",
-      "slug": "market-watch-widget",
-      "status": "published",
-      "title": "Market Watch Widget"
-    },
-    {
-      "__outstatic": {
         "commit": "f3c6debe93e4888281b264e1dee5e5a5f57c5663",
         "hash": "2210521465",
         "path": "outstatic/content/projects/memories-a-social-platform.md"
@@ -148,6 +129,25 @@
       "slug": "memories-a-social-platform",
       "status": "published",
       "title": "Memories - A Social Platform"
+    },
+    {
+      "__outstatic": {
+        "commit": "7b8c6d8e2cba00d8f265a3a2629e0c5517a78122",
+        "hash": "141790647",
+        "path": "outstatic/content/projects/market-watch-widget.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Finance",
+      "collection": "projects",
+      "coverImage": "/images/stock-widget-A4Nz.png",
+      "description": "A python based widget capable of live data and graphs, stock-specific news, trending tickers, and data recording. ",
+      "publishedAt": "2024-05-11T19:10:29.031Z",
+      "slug": "market-watch-widget",
+      "status": "published",
+      "title": "Market Watch Widget"
     }
   ]
 }
