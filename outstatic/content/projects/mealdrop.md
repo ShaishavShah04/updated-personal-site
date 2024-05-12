@@ -6,7 +6,7 @@ coverImage: '/images/mealdrop-kyNT.png'
 title: 'MealDrop'
 status: 'published'
 slug: 'mealdrop'
-description: 'An application that helps solve food waste!'
+description: 'An application that helps solve food waste! Restaurants with extra food can create a posting. Once a food bank notices a nearby posting, they can submit a pickup request and collect the extra food.'
 category: 'Fullstack'
 publishedAt: '2024-05-12T16:42:56.674Z'
 ---

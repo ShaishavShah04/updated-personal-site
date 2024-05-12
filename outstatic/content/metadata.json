@@ -1,6 +1,6 @@
 {
-  "commit": "a853ce4949bedfba037006e5add1908b788fed3b",
-  "generated": "2024-05-12T17:25:34.367Z",
+  "commit": "0caadff57293ed2a262d37b996b64ae66b6239d2",
+  "generated": "2024-05-12T17:26:42.715Z",
   "metadata": [
     {
       "__outstatic": {
@@ -227,25 +227,6 @@
     },
     {
       "__outstatic": {
-        "commit": "5fb8994c12fc73925b4ee2da0f789dd0b0996175",
-        "hash": "3598841706",
-        "path": "outstatic/content/projects/mealdrop.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "category": "Fullstack",
-      "collection": "projects",
-      "coverImage": "/images/mealdrop-kyNT.png",
-      "description": "An application that helps solve food waste!",
-      "publishedAt": "2024-05-12T16:42:56.674Z",
-      "slug": "mealdrop",
-      "status": "published",
-      "title": "MealDrop"
-    },
-    {
-      "__outstatic": {
         "commit": "a853ce4949bedfba037006e5add1908b788fed3b",
         "hash": "422823015",
         "path": "outstatic/content/projects/oasis-stanford-treehacks-2024-winner.md"
@@ -262,6 +243,25 @@
       "slug": "oasis-stanford-treehacks-2024-winner",
       "status": "published",
       "title": "Oasis - (Stanford TreeHacks 2024 Winner 🎉)"
+    },
+    {
+      "__outstatic": {
+        "commit": "0caadff57293ed2a262d37b996b64ae66b6239d2",
+        "hash": "3762284642",
+        "path": "outstatic/content/projects/mealdrop.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Fullstack",
+      "collection": "projects",
+      "coverImage": "/images/mealdrop-kyNT.png",
+      "description": "An application that helps solve food waste! Restaurants with extra food can create a posting. Once a food bank notices a nearby posting, they can submit a pickup request and collect the extra food.",
+      "publishedAt": "2024-05-12T16:42:56.674Z",
+      "slug": "mealdrop",
+      "status": "published",
+      "title": "MealDrop"
     }
   ]
 }
