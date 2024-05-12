@@ -29,12 +29,14 @@ Search up any stock you want and find relevant information such as live prices, 
 
 ### Tech Stack
 
-```plaintext
-Python, Matplotlib, Webscraping
-```
+- Python
+- Matplotlib
+- Webscraping (Selenium + BeautifulSoup4)
 
 With Python at its core and leveraging the power of Matplotlib for visualization and webscraping for fetching live data, the Stock Widget offers a seamless and informative experience for users interested in the stock market.
 
 So why wait? Dive into the world of stocks with the Stock Widget today and make informed investment decisions like a pro! 💼✨
+
+---
 
 [**Github Link**](https://github.com/ShaishavShah04/Stock-Widget)

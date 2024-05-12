@@ -1,6 +1,6 @@
 {
-  "commit": "739762fbddc7bebf5bbd3af72a9240b7a9856ceb",
-  "generated": "2024-05-12T02:51:30.130Z",
+  "commit": "32e590469a89206ca1097517450afe35dc70f6b0",
+  "generated": "2024-05-12T02:56:12.978Z",
   "metadata": [
     {
       "__outstatic": {
@@ -113,25 +113,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7b8c6d8e2cba00d8f265a3a2629e0c5517a78122",
-        "hash": "141790647",
-        "path": "outstatic/content/projects/market-watch-widget.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "category": "Finance",
-      "collection": "projects",
-      "coverImage": "/images/stock-widget-A4Nz.png",
-      "description": "A python based widget capable of live data and graphs, stock-specific news, trending tickers, and data recording. ",
-      "publishedAt": "2024-05-11T19:10:29.031Z",
-      "slug": "market-watch-widget",
-      "status": "published",
-      "title": "Market Watch Widget"
-    },
-    {
-      "__outstatic": {
         "commit": "1f1c5c3f6feabd70ec7703da32af64271f1b32b4",
         "hash": "741989847",
         "path": "outstatic/content/projects/smartreceipt.md"
@@ -186,6 +167,25 @@
       "slug": "cryptoalerter",
       "status": "published",
       "title": "CryptoAlerter"
+    },
+    {
+      "__outstatic": {
+        "commit": "32e590469a89206ca1097517450afe35dc70f6b0",
+        "hash": "1214375467",
+        "path": "outstatic/content/projects/market-watch-widget.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Finance",
+      "collection": "projects",
+      "coverImage": "/images/stock-widget-A4Nz.png",
+      "description": "A python based widget capable of live data and graphs, stock-specific news, trending tickers, and data recording. ",
+      "publishedAt": "2024-05-11T19:10:29.031Z",
+      "slug": "market-watch-widget",
+      "status": "published",
+      "title": "Market Watch Widget"
     }
   ]
 }
