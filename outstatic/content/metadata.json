@@ -1,6 +1,6 @@
 {
-  "commit": "eba45774693863262ebb2fbe1e3f1793c2a256cc",
-  "generated": "2024-05-12T03:00:25.380Z",
+  "commit": "8d3a99ab056c505f9435f82f5ef0f22182f51cb8",
+  "generated": "2024-05-12T17:15:42.604Z",
   "metadata": [
     {
       "__outstatic": {
@@ -205,6 +205,25 @@
       "slug": "qrhunt",
       "status": "published",
       "title": "QRHunt"
+    },
+    {
+      "__outstatic": {
+        "commit": "8d3a99ab056c505f9435f82f5ef0f22182f51cb8",
+        "hash": "4025128404",
+        "path": "outstatic/content/projects/noplaceforhate.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "AI Powered Browser Extension",
+      "collection": "projects",
+      "coverImage": "/images/gallery-Y3Mz.jpg",
+      "description": "A chrome extension harnessing AI to instantly detect and block online hate speech, promoting a safer and more inclusive browsing experience.",
+      "publishedAt": "2024-05-12T16:36:37.189Z",
+      "slug": "noplaceforhate",
+      "status": "published",
+      "title": "NoPlaceForHate"
     }
   ]
 }
