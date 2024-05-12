@@ -1,6 +1,6 @@
 {
-  "commit": "8d3a99ab056c505f9435f82f5ef0f22182f51cb8",
-  "generated": "2024-05-12T17:15:42.604Z",
+  "commit": "5fb8994c12fc73925b4ee2da0f789dd0b0996175",
+  "generated": "2024-05-12T17:21:11.567Z",
   "metadata": [
     {
       "__outstatic": {
@@ -224,6 +224,25 @@
       "slug": "noplaceforhate",
       "status": "published",
       "title": "NoPlaceForHate"
+    },
+    {
+      "__outstatic": {
+        "commit": "5fb8994c12fc73925b4ee2da0f789dd0b0996175",
+        "hash": "3598841706",
+        "path": "outstatic/content/projects/mealdrop.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Fullstack",
+      "collection": "projects",
+      "coverImage": "/images/mealdrop-kyNT.png",
+      "description": "An application that helps solve food waste!",
+      "publishedAt": "2024-05-12T16:42:56.674Z",
+      "slug": "mealdrop",
+      "status": "published",
+      "title": "MealDrop"
     }
   ]
 }
