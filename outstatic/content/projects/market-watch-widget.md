@@ -6,7 +6,7 @@ coverImage: '/images/stock-widget-A4Nz.png'
 title: 'Market Watch Widget'
 status: 'published'
 slug: 'market-watch-widget'
-description: ''
+description: 'A python based widget capable of live data and graphs, stock-specific news, trending tickers, and data recording. '
 category: 'Finance'
 publishedAt: '2024-05-11T19:10:29.031Z'
 ---
@@ -36,5 +36,3 @@ Python, Matplotlib, Webscraping
 With Python at its core and leveraging the power of Matplotlib for visualization and webscraping for fetching live data, the Stock Widget offers a seamless and informative experience for users interested in the stock market.
 
 So why wait? Dive into the world of stocks with the Stock Widget today and make informed investment decisions like a pro! 💼✨
-
- 
