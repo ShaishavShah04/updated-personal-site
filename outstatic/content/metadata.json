@@ -1,6 +1,6 @@
 {
-  "commit": "0d735f576ecb080d9e821992e1f9fffd55bc78e6",
-  "generated": "2024-05-13T20:06:57.665Z",
+  "commit": "1e17dc1f7880976e34cef0642a7db14a354d2eb7",
+  "generated": "2024-05-13T20:07:05.134Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,42 +19,6 @@
       "slug": "about",
       "status": "published",
       "title": "About Me"
-    },
-    {
-      "__outstatic": {
-        "commit": "412a44a1ca1fcaeacc5b5607bdc1680e27ec0925",
-        "hash": "1748181947",
-        "path": "outstatic/content/experiences/niricson-software-inc.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "collection": "experiences",
-      "coverImage": "/images/e4412235fe53fb33ebda19f7863602f2-EwND.jpg",
-      "description": "My time @ Niricson",
-      "publishedAt": "2024-05-10T02:02:13.395Z",
-      "slug": "niricson-software-inc",
-      "status": "published",
-      "title": "Niricson Software Inc."
-    },
-    {
-      "__outstatic": {
-        "commit": "477670e0949eb0d5ef7a71c5657c0da30ea484dc",
-        "hash": "3437169518",
-        "path": "outstatic/content/experiences/palantir.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "collection": "experiences",
-      "coverImage": "/images/palantir_chevron-E0MD.png",
-      "description": "My time @ Palantir!",
-      "publishedAt": "2024-05-10T22:49:05.000Z",
-      "slug": "palantir",
-      "status": "published",
-      "title": "Palantir"
     },
     {
       "__outstatic": {
