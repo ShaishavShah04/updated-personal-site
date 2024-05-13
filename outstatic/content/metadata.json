@@ -1,6 +1,6 @@
 {
-  "commit": "b9b4a6c0b550602d2c029a89fe9b78a1e4d64067",
-  "generated": "2024-05-13T05:37:09.574Z",
+  "commit": "d905a195a95d994d2eff6afce42ca5cd35533f14",
+  "generated": "2024-05-13T05:37:24.064Z",
   "metadata": [
     {
       "__outstatic": {
@@ -265,8 +265,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b9b4a6c0b550602d2c029a89fe9b78a1e4d64067",
-        "hash": "2880934847",
+        "commit": "d905a195a95d994d2eff6afce42ca5cd35533f14",
+        "hash": "3937068659",
         "path": "outstatic/content/pages/experiences.md"
       },
       "author": {
@@ -279,7 +279,7 @@
       "publishedAt": "2024-05-13T05:00:58.110Z",
       "slug": "experiences",
       "status": "published",
-      "title": "Experiences"
+      "title": "Experience"
     }
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: 'Experiences'
+title: 'Experience'
 status: 'published'
 author:
   name: 'Shaishav Shah'
