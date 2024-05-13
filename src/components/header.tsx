@@ -52,6 +52,17 @@ const Header = async () => {
               </Link>
             </li>
           ))}
+           <li key="resume">
+              <Link
+                href={`/resume.pdf`}
+                className={
+                  buttonVariants({ variant: "ghost", size: "sm" }) +
+                  " capitalize"
+                }
+              >
+                Resume
+              </Link>
+            </li>
           <ThemeToggle />
         </ul>
         <MobileMenu pages={pages} collections={collections} />

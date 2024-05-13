@@ -92,7 +92,7 @@ export default async function Document(params: Params) {
           </div>
         </div>
       </article>
-      <div className="mb-16">
+      {/* <div className="mb-16">
         {moreDocs.length > 0 && (
           <ContentGrid
             title={`More ${doc.collection}`}
@@ -100,7 +100,7 @@ export default async function Document(params: Params) {
             collection={doc.collection}
           />
         )}
-      </div>
+      </div> */}
     </>
   )
 }
