@@ -1,6 +1,6 @@
 {
-  "commit": "63446abde33d10af0eed500de97d9afbe57140e6",
-  "generated": "2024-05-13T00:25:08.428Z",
+  "commit": "b9b4a6c0b550602d2c029a89fe9b78a1e4d64067",
+  "generated": "2024-05-13T05:37:09.574Z",
   "metadata": [
     {
       "__outstatic": {
@@ -262,6 +262,24 @@
       "slug": "oasis-stanford-treehacks-2024-winner",
       "status": "published",
       "title": "Oasis - (Stanford TreeHacks 2024 Winner 🎉)"
+    },
+    {
+      "__outstatic": {
+        "commit": "b9b4a6c0b550602d2c029a89fe9b78a1e4d64067",
+        "hash": "2880934847",
+        "path": "outstatic/content/pages/experiences.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-13T05:00:58.110Z",
+      "slug": "experiences",
+      "status": "published",
+      "title": "Experiences"
     }
   ]
 }
