@@ -1,6 +1,6 @@
 {
-  "commit": "120b3f2621820e8af716f6d014dbacd5cc60a2c2",
-  "generated": "2024-05-12T22:58:38.312Z",
+  "commit": "63446abde33d10af0eed500de97d9afbe57140e6",
+  "generated": "2024-05-13T00:25:08.428Z",
   "metadata": [
     {
       "__outstatic": {
@@ -209,25 +209,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a853ce4949bedfba037006e5add1908b788fed3b",
-        "hash": "422823015",
-        "path": "outstatic/content/projects/oasis-stanford-treehacks-2024-winner.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "category": "Finetuned LLMs",
-      "collection": "projects",
-      "coverImage": "/images/oasis-czNz.jpg",
-      "description": "AI agents help benchmark, assess, and enhance corporate sustainability practices",
-      "publishedAt": "2024-05-12T16:46:50.306Z",
-      "slug": "oasis-stanford-treehacks-2024-winner",
-      "status": "published",
-      "title": "Oasis - (Stanford TreeHacks 2024 Winner 🎉)"
-    },
-    {
-      "__outstatic": {
         "commit": "0caadff57293ed2a262d37b996b64ae66b6239d2",
         "hash": "3762284642",
         "path": "outstatic/content/projects/mealdrop.md"
@@ -262,6 +243,25 @@
       "slug": "first-blog-post",
       "status": "published",
       "title": "First Blog Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "63446abde33d10af0eed500de97d9afbe57140e6",
+        "hash": "1175361395",
+        "path": "outstatic/content/projects/oasis-stanford-treehacks-2024-winner.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "category": "Finetuned LLMs",
+      "collection": "projects",
+      "coverImage": "/images/oasis-czNz.jpg",
+      "description": "AI agents help benchmark, assess, and enhance corporate sustainability practices",
+      "publishedAt": "2024-05-12T16:46:50.306Z",
+      "slug": "oasis-stanford-treehacks-2024-winner",
+      "status": "published",
+      "title": "Oasis - (Stanford TreeHacks 2024 Winner 🎉)"
     }
   ]
 }
