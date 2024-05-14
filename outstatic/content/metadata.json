@@ -1,6 +1,6 @@
 {
-  "commit": "26e67188e53c413891657a6c13757018558609ec",
-  "generated": "2024-05-14T03:31:40.484Z",
+  "commit": "7fe7dfaf6386ea0043bffb45788d7519dee02155",
+  "generated": "2024-05-14T15:42:01.660Z",
   "metadata": [
     {
       "__outstatic": {
@@ -298,6 +298,24 @@
       "slug": "smlb",
       "status": "published",
       "title": "SMLB"
+    },
+    {
+      "__outstatic": {
+        "commit": "7fe7dfaf6386ea0043bffb45788d7519dee02155",
+        "hash": "2397853050",
+        "path": "outstatic/content/jobs/discover-coding.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "jobs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-14T14:59:38.957Z",
+      "slug": "discover-coding",
+      "status": "published",
+      "title": "Discover Coding"
     }
   ]
 }
