@@ -1,6 +1,6 @@
 {
-  "commit": "a531ddedf28a8814c67850b95ccba10246d25a4b",
-  "generated": "2024-05-14T15:49:03.637Z",
+  "commit": "7a2c090802af8ec7f61c6e0414d3dc2b107e288d",
+  "generated": "2024-05-14T15:57:10.324Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "about",
       "status": "published",
       "title": "About Me"
-    },
-    {
-      "__outstatic": {
-        "commit": "038bfc0a85935897cb0c250d879d2f0e6ff464c3",
-        "hash": "166970609",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -316,6 +298,24 @@
       "slug": "experiences",
       "status": "published",
       "title": "Experience"
+    },
+    {
+      "__outstatic": {
+        "commit": "7a2c090802af8ec7f61c6e0414d3dc2b107e288d",
+        "hash": "373987752",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
