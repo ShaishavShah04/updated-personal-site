@@ -28,7 +28,7 @@ Edmonton, Canada | 2022 | Learn more about my time [here](https://updated-person
 
 ### SMLB | VP Technology
 
-Edmonton, Canada | 2021-2022 |Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+Edmonton, Canada | 2021-2022 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
 
 ### TechTalk | Co-Founder & Presenter
 
