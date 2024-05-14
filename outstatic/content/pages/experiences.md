@@ -14,11 +14,25 @@ Here's a bit about my past experience and education...
 
 # Experience
 
-### Palantir | Software Engineer Intern | 2023 
+### Palantir | Software Engineer Intern
 
-Learn more about my time @ Palantir [here](https://updated-personal-site.vercel.app/jobs/palantir)
+New York City, USA | 2023 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/palantir)
 
-### Niricson | Software Engineer Intern | 2022
+### Niricson | Software Engineer Intern
+
+Victoria, Canada | 2022 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+
+### Discover Coding | Programming Instructor
+
+Edmonton, Canada | 2022 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+
+### SMLB | VP Technology
+
+Edmonton, Canada | 2021-2022 |Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+
+### TechTalk | Co-Founder & Presenter
+
+Edmonton, Canada | 2020 | Learn more about my time [here](/jobs/niricson)
 
 # Education
 
