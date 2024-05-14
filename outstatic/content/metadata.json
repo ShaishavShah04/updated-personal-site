@@ -1,6 +1,6 @@
 {
-  "commit": "9393c027553d3ec5d2531bd38c79eaa2dd71925f",
-  "generated": "2024-05-14T19:37:21.674Z",
+  "commit": "82e73ee57d4abd9083bb3e698dedc4e6ddafebf9",
+  "generated": "2024-05-14T19:40:53.710Z",
   "metadata": [
     {
       "__outstatic": {
@@ -316,6 +316,24 @@
       "slug": "experiences",
       "status": "published",
       "title": "Experience"
+    },
+    {
+      "__outstatic": {
+        "commit": "82e73ee57d4abd9083bb3e698dedc4e6ddafebf9",
+        "hash": "2215396969",
+        "path": "outstatic/content/jobs/techtalk.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "jobs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-14T19:04:33.244Z",
+      "slug": "techtalk",
+      "status": "published",
+      "title": "TechTalk"
     }
   ]
 }
