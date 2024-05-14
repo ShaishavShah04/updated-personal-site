@@ -1,6 +1,6 @@
 {
-  "commit": "77a8d211eb1ac6ceb05964eac7190a709ce2246f",
-  "generated": "2024-05-14T03:05:35.142Z",
+  "commit": "01cdb7f6a6ebf3787d92ae20e1b31a2719ccb00a",
+  "generated": "2024-05-14T03:15:39.184Z",
   "metadata": [
     {
       "__outstatic": {
@@ -262,6 +262,24 @@
       "slug": "experiences",
       "status": "published",
       "title": "Experience"
+    },
+    {
+      "__outstatic": {
+        "commit": "01cdb7f6a6ebf3787d92ae20e1b31a2719ccb00a",
+        "hash": "4012877367",
+        "path": "outstatic/content/jobs/niricson.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "jobs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-14T02:38:30.939Z",
+      "slug": "niricson",
+      "status": "draft",
+      "title": "Niricson"
     }
   ]
 }
