@@ -1,6 +1,6 @@
 {
-  "commit": "01cdb7f6a6ebf3787d92ae20e1b31a2719ccb00a",
-  "generated": "2024-05-14T03:15:39.184Z",
+  "commit": "517995b89de7d99f8089271389d1063cdad84270",
+  "generated": "2024-05-14T03:15:42.411Z",
   "metadata": [
     {
       "__outstatic": {
@@ -265,7 +265,7 @@
     },
     {
       "__outstatic": {
-        "commit": "01cdb7f6a6ebf3787d92ae20e1b31a2719ccb00a",
+        "commit": "517995b89de7d99f8089271389d1063cdad84270",
         "hash": "4012877367",
         "path": "outstatic/content/jobs/niricson.md"
       },
