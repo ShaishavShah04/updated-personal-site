@@ -1,6 +1,6 @@
 {
-  "commit": "0654142521a79c276c6908425c6726707dbc6da1",
-  "generated": "2024-05-14T01:23:20.865Z",
+  "commit": "e9c92b81e5ed902354fd3cc6f3a79c394c6f5d00",
+  "generated": "2024-05-14T01:47:44.277Z",
   "metadata": [
     {
       "__outstatic": {
@@ -247,8 +247,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0654142521a79c276c6908425c6726707dbc6da1",
-        "hash": "981234553",
+        "commit": "e9c92b81e5ed902354fd3cc6f3a79c394c6f5d00",
+        "hash": "2968344802",
         "path": "outstatic/content/jobs/palantir.md"
       },
       "author": {
@@ -260,7 +260,7 @@
       "description": "",
       "publishedAt": "2024-05-14T00:47:07.490Z",
       "slug": "palantir",
-      "status": "draft",
+      "status": "published",
       "title": "Palantir"
     }
   ]
