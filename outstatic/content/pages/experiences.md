@@ -10,29 +10,29 @@ coverImage: ''
 publishedAt: '2024-05-13T05:00:58.110Z'
 ---
 
-Here's a bit about my past experience and education...
+Here's a bit about my past [experience](#experience) and [education](#education)...
 
 # Experience
 
 ### Palantir | Software Engineer Intern
 
-New York City, USA | 2023 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/palantir)
+New York City, USA | 2023 | Learn more about my time [here](/jobs/palantir)
 
 ### Niricson | Software Engineer Intern
 
-Victoria, Canada | 2022 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+Victoria, Canada | 2022 | Learn more about my time [here](/jobs/niricson)
 
 ### Discover Coding | Programming Instructor
 
-Edmonton, Canada | 2022 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+Edmonton, Canada | 2022 | Learn more about my time [here](/jobs/discover-coding)
 
 ### SMLB | VP Technology
 
-Edmonton, Canada | 2021-2022 | Learn more about my time [here](https://updated-personal-site.vercel.app/jobs/niricson)
+Edmonton, Canada | 2021-2022 | Learn more about my time [here](/jobs/smlb)
 
 ### TechTalk | Co-Founder & Presenter
 
-Edmonton, Canada | 2020 | Learn more about my time [here](/jobs/niricson)
+Edmonton, Canada | 2020 | Learn more about my time [here](/jobs/techtalk)
 
 # Education
 
