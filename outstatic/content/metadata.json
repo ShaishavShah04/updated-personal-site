@@ -1,25 +1,7 @@
 {
-  "commit": "7a2c090802af8ec7f61c6e0414d3dc2b107e288d",
-  "generated": "2024-05-14T18:48:45.032Z",
+  "commit": "103f8bd1d0798b326d9bfb6c58d2646e8d458ef0",
+  "generated": "2024-05-14T19:08:32.109Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "362aae7bd772fae2317128afd388e1bb1a769f7a",
-        "hash": "1931379323",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "I'm Shaishav, a software engineer!",
-      "publishedAt": "2023-12-28T18:49:02.348Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About Me"
-    },
     {
       "__outstatic": {
         "commit": "f3c6debe93e4888281b264e1dee5e5a5f57c5663",
@@ -316,6 +298,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "103f8bd1d0798b326d9bfb6c58d2646e8d458ef0",
+        "hash": "179917488",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "I'm Shaishav, a software engineer!",
+      "publishedAt": "2023-12-28T18:49:02.348Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About Me"
     }
   ]
 }
