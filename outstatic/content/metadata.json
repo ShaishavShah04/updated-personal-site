@@ -1,6 +1,6 @@
 {
-  "commit": "e9c92b81e5ed902354fd3cc6f3a79c394c6f5d00",
-  "generated": "2024-05-14T01:47:44.277Z",
+  "commit": "16976093366bb147ffcb52d948e4e53d059de989",
+  "generated": "2024-05-14T01:48:26.099Z",
   "metadata": [
     {
       "__outstatic": {
@@ -229,24 +229,6 @@
     },
     {
       "__outstatic": {
-        "commit": "71fa2177a525b6499aea50d843ac6df949072960",
-        "hash": "1794288920",
-        "path": "outstatic/content/pages/experiences.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-13T05:00:58.110Z",
-      "slug": "experiences",
-      "status": "published",
-      "title": "Experience"
-    },
-    {
-      "__outstatic": {
         "commit": "e9c92b81e5ed902354fd3cc6f3a79c394c6f5d00",
         "hash": "2968344802",
         "path": "outstatic/content/jobs/palantir.md"
@@ -262,6 +244,24 @@
       "slug": "palantir",
       "status": "published",
       "title": "Palantir"
+    },
+    {
+      "__outstatic": {
+        "commit": "16976093366bb147ffcb52d948e4e53d059de989",
+        "hash": "2523583576",
+        "path": "outstatic/content/pages/experiences.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-13T05:00:58.110Z",
+      "slug": "experiences",
+      "status": "published",
+      "title": "Experience"
     }
   ]
 }
