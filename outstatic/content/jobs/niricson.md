@@ -1,6 +1,6 @@
 ---
 title: 'Niricson'
-status: 'draft'
+status: 'published'
 author:
   name: 'Shaishav Shah'
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
