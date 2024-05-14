@@ -14,7 +14,9 @@ Here's a bit about my past experience and education...
 
 # Experience
 
-### Palantir | Software Engineer Intern | 2023
+### Palantir | Software Engineer Intern | 2023 
+
+Learn more about my time @ Palantir [here](https://updated-personal-site.vercel.app/jobs/palantir)
 
 ### Niricson | Software Engineer Intern | 2022
 
