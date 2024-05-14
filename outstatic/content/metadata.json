@@ -1,6 +1,6 @@
 {
-  "commit": "2a2cba233f7128448e7ef6b6a841d8a3091776d6",
-  "generated": "2024-05-14T03:17:52.627Z",
+  "commit": "23163fe65aff4f2d4fd9312e2904ba23dc3a2d58",
+  "generated": "2024-05-14T03:24:25.825Z",
   "metadata": [
     {
       "__outstatic": {
@@ -280,6 +280,24 @@
       "slug": "niricson",
       "status": "published",
       "title": "Niricson"
+    },
+    {
+      "__outstatic": {
+        "commit": "23163fe65aff4f2d4fd9312e2904ba23dc3a2d58",
+        "hash": "192127571",
+        "path": "outstatic/content/jobs/smlb.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "jobs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-14T02:44:52.361Z",
+      "slug": "smlb",
+      "status": "published",
+      "title": "SMLB"
     }
   ]
 }
