@@ -88,7 +88,7 @@ async function getData() {
 
   const collections = getCollections().filter(
     (collection) => collection !== "pages"
-  );
+  ).filter(collection => collection !== "jobs");
 
   return {
     pages,
