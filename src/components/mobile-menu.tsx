@@ -54,6 +54,17 @@ export const MobileMenu = ({ pages, collections }: MenuProps) => {
                 </Link>
               </li>
             ))}
+            <li key="resume">
+              <Link
+                href={`/resume.pdf`}
+                className={
+                  buttonVariants({ variant: "ghost", size: "sm" }) +
+                  " capitalize"
+                }
+              >
+                Resume
+              </Link>
+            </li>
           </ul>
           <DrawerFooter>
             <div className="w-full justify-end flex gap-4">
