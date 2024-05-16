@@ -57,9 +57,10 @@ export const MobileMenu = ({ pages, collections }: MenuProps) => {
             <li key="resume">
               <Link
                 href={`/resume.pdf`}
+                onClick={() => setOpen(false)}
                 className={
-                  buttonVariants({ variant: "ghost", size: "sm" }) +
-                  " capitalize"
+                  buttonVariants({ variant: "secondary" }) +
+                  " capitalize w-full"
                 }
               >
                 Resume
