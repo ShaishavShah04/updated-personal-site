@@ -13,7 +13,7 @@ publishedAt: '2024-05-16T01:11:03.848Z'
 
 # NYC Crime Analysis - An Advanced Data Science Project
 
-## [**VIEW HERE!!!!**](https://effortless-youtiao-b764d0.netlify.app/)
+## [**VIEW HERE!!!!**](https://effortless-youtiao-b764d0.netlify.app)
 
 The "New York City Crime Analysis" project leverages advanced data science techniques to explore and forecast crime trends in New York City. The primary objective of the project is to identify the safest areas to live in NYC by analyzing historical crime data and making future predictions.
 
