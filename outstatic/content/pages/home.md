@@ -5,7 +5,7 @@ author:
   name: 'Shaishav Shah'
   picture: ''
 slug: 'home'
-description: ''
+description: 'About Shaishav Shah. A software developer who loves to solve complex and challenging problems.'
 coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
