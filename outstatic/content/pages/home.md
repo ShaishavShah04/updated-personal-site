@@ -12,4 +12,4 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 # Shaishav Shah
 
-*A* `problem solver` *who happens to know* `programming` end-to-end solutions. I'm interested in data-driven applications — particularly their impact on non-tech industries.
+*A* `problem solver` *who happens to be* a `software developer`. I'm interested in data-driven applications — particularly their impact on non-tech industries.
