@@ -14,6 +14,12 @@ Here's a bit about my past [experience](#experience) 🔨 and [education](#educa
 
 # Experience
 
+### Palantir | Software Engineer
+
+New York City, USA | 2024
+
+---
+
 ### Palantir | Software Engineer Intern
 
 New York City, USA | 2023 | Learn more about my time [here](/jobs/palantir)
