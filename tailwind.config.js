@@ -50,6 +50,15 @@ module.exports = {
         card: {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))'
+        },
+        // Custom color utilities for MDX components
+        'color-text': {
+          'red': '#dc2626',
+          'blue': '#2563eb',
+          'green': '#16a34a',
+          'yellow': '#ca8a04',
+          'purple': '#9333ea',
+          'orange': '#ea580c'
         }
       },
       borderRadius: {

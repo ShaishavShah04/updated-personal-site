@@ -4,6 +4,18 @@ import Image from "next/image";
 import { ImgHTMLAttributes, useMemo } from "react";
 import { CustomCode, Pre } from "./custom-code";
 import CustomLink from "./custom-link";
+import { 
+  ColorText, 
+  ColorBackground, 
+  ColorBorder, 
+  RedText, 
+  BlueText, 
+  GreenText, 
+  YellowText, 
+  PurpleText, 
+  OrangeText, 
+  Highlight 
+} from "./color-components";
 
 const MDXComponentsMap = {
   a: CustomLink,
@@ -13,6 +25,18 @@ const MDXComponentsMap = {
   ),
   pre: Pre,
   code: CustomCode,
+  // Color components
+  ColorText,
+  ColorBackground,
+  ColorBorder,
+  // Preset color components
+  RedText,
+  BlueText,
+  GreenText,
+  YellowText,
+  PurpleText,
+  OrangeText,
+  Highlight,
 };
 
 type MDXComponentProps = {

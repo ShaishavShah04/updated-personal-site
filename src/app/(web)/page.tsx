@@ -1,5 +1,6 @@
 import ContentGrid from '@/components/content-grid'
-import markdownToHtml from '@/lib/markdownToHtml'
+import MDXComponent from '@/components/mdx/mdx-component'
+import MDXServer from '@/lib/mdx-server'
 import { load } from 'outstatic/server'
 
 export default async function Index() {
@@ -8,10 +9,9 @@ export default async function Index() {
   return (
     <>
       <section className="mb-16 md:min-h-[calc(100vh-256px)] items-center flex">
-        <div
-          className="prose lg:prose-2xl home-intro prose-outstatic home-hero-fade"
-          dangerouslySetInnerHTML={{ __html: content }}
-        />
+        <div className="prose lg:prose-2xl home-intro prose-outstatic home-hero-fade">
+          <MDXComponent content={content} />
+        </div>
       </section>
       <div className="animate-fade-in delay-1000 opacity-0 duration-500">
         {allPosts.length > 0 && (
@@ -48,8 +48,8 @@ async function getData() {
     .find({ collection: 'pages', slug: 'home' }, ['content'])
     .first()
 
-  // convert markdown to html
-  const content = await markdownToHtml(page.content)
+  // convert markdown to MDX
+  const content = await MDXServer(page.content)
 
   // get all posts. Example of fetching a specific collection
   const allPosts = await db
