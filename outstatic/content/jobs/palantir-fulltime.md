@@ -6,11 +6,11 @@ author:
   picture: ''
 slug: 'palantir-fulltime'
 description: ''
-coverImage: ''
+coverImage: 'https://www.shaishavshah.com/images/palantir_chevron-I4Nz.png'
 publishedAt: '2025-09-14T22:27:42.595Z'
 ---
 
-After joining full-time, I loved that I was able to return back to my former team, but work on several different problems unlike I've ever seen before. I was a backend developer and it was super nice. 
+After joining full-time, I loved that I was able to return back to my former team, but work on several different problems unlike I've ever seen before. I was a backend developer and it was super nice.
 
 While I've always felt that I've learnt a lot in my internships, it doesn't compare to this full time experience. Here, I got to really hone my system architecture, low-latency design, clean choices, and intuition for how things should work. *(Thank you to my team for keeping extremely high code standards! 😁)*
 

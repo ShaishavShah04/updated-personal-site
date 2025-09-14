@@ -1,6 +1,6 @@
 {
-  "commit": "415db7db70ab920da499d8dd9aa968d4703b9212",
-  "generated": "2025-09-14T23:03:47.733Z",
+  "commit": "8105a7e7bc6950477afe245fac60e935ea5360a8",
+  "generated": "2025-09-14T23:04:15.079Z",
   "metadata": [
     {
       "__outstatic": {
@@ -338,24 +338,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d2cde6d54eb6e8647f2cafd295cea9add06093d9",
-        "hash": "26046793",
-        "path": "outstatic/content/jobs/palantir-fulltime.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": ""
-      },
-      "collection": "jobs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-09-14T22:27:42.595Z",
-      "slug": "palantir-fulltime",
-      "status": "published",
-      "title": "Palantir - Full Time"
-    },
-    {
-      "__outstatic": {
         "commit": "415db7db70ab920da499d8dd9aa968d4703b9212",
         "hash": "205836233",
         "path": "outstatic/content/pages/experiences.md"
@@ -371,6 +353,24 @@
       "slug": "experiences",
       "status": "published",
       "title": "Experience"
+    },
+    {
+      "__outstatic": {
+        "commit": "8105a7e7bc6950477afe245fac60e935ea5360a8",
+        "hash": "3698585231",
+        "path": "outstatic/content/jobs/palantir-fulltime.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": ""
+      },
+      "collection": "jobs",
+      "coverImage": "https://www.shaishavshah.com/images/palantir_chevron-I4Nz.png",
+      "description": "",
+      "publishedAt": "2025-09-14T22:27:42.595Z",
+      "slug": "palantir-fulltime",
+      "status": "published",
+      "title": "Palantir - Full Time"
     }
   ]
 }
