@@ -16,13 +16,13 @@ Here's a bit about my past [experience](#experience) 🔨 and [education](#educa
 
 ### Palantir | Software Engineer
 
-New York City, USA | 2024
+New York City, USA | 2024 | Learn more about my time [here](/jobs/palantir-fulltime)
 
 ---
 
 ### Palantir | Software Engineer Intern
 
-New York City, USA | 2023 | Learn more about my time [here](/jobs/palantir)
+New York City, USA | 2023 | Learn more about my time [here](/jobs/palantir-internship)
 
 ### Niricson | Software Engineer Intern
 

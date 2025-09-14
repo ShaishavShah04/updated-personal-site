@@ -1,6 +1,6 @@
 {
-  "commit": "d2cde6d54eb6e8647f2cafd295cea9add06093d9",
-  "generated": "2025-09-14T23:03:07.025Z",
+  "commit": "415db7db70ab920da499d8dd9aa968d4703b9212",
+  "generated": "2025-09-14T23:03:47.733Z",
   "metadata": [
     {
       "__outstatic": {
@@ -320,24 +320,6 @@
     },
     {
       "__outstatic": {
-        "commit": "62406d6c236891bbb4b6a27a060b49a8587c2ef1",
-        "hash": "697434847",
-        "path": "outstatic/content/pages/experiences.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-13T05:00:58.110Z",
-      "slug": "experiences",
-      "status": "published",
-      "title": "Experience"
-    },
-    {
-      "__outstatic": {
         "commit": "590b20ec47ad571cb74cf9a87d0c8f1b3956f48c",
         "hash": "619859801",
         "path": "outstatic/content/jobs/palantir-internship.md"
@@ -371,6 +353,24 @@
       "slug": "palantir-fulltime",
       "status": "published",
       "title": "Palantir - Full Time"
+    },
+    {
+      "__outstatic": {
+        "commit": "415db7db70ab920da499d8dd9aa968d4703b9212",
+        "hash": "205836233",
+        "path": "outstatic/content/pages/experiences.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": "https://avatars.githubusercontent.com/u/38801683?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-13T05:00:58.110Z",
+      "slug": "experiences",
+      "status": "published",
+      "title": "Experience"
     }
   ]
 }
