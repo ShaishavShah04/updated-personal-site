@@ -1,10 +1,10 @@
 ---
-title: 'Palantir'
+title: 'Palantir Internship'
 status: 'published'
 author:
   name: 'Shaishav Shah'
   picture: 'https://avatars.githubusercontent.com/u/38801683?v=4'
-slug: 'palantir'
+slug: 'palantir-internship'
 description: ''
 coverImage: ''
 publishedAt: '2024-05-14T00:47:07.490Z'
@@ -12,9 +12,9 @@ publishedAt: '2024-05-14T00:47:07.490Z'
 
 ![](/images/palantir_chevron-I4Nz.png)
 
-I really enjoyed my time at Palantir! I working across the entire stack, responsible for ensuring the backend and frontend all had the necessary changes to bring my features to life. I was placed within a great team, and was working on the interesting AIP (Palantir's AI offering) related work within the company. 
+I really enjoyed my time at Palantir! I working across the entire stack, responsible for ensuring the backend and frontend all had the necessary changes to bring my features to life. I was placed within a great team, and was working on the interesting AIP (Palantir's AI offering) related work within the company.
 
-I also lead a team at the internal hackathon, creating a codebase specific semantic search, allowing developers to query to the code base to find relevant chunks. 
+I also lead a team at the internal hackathon, creating a codebase specific semantic search, allowing developers to query to the code base to find relevant chunks.
 
 Here are a few notable achievements from my time there:\
 \
