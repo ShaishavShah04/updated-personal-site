@@ -1,6 +1,6 @@
 {
-  "commit": "8105a7e7bc6950477afe245fac60e935ea5360a8",
-  "generated": "2025-09-14T23:04:58.646Z",
+  "commit": "7995a56c2669a3d0d8317e996958b92bddec8ffa",
+  "generated": "2025-12-25T23:16:47.181Z",
   "metadata": [
     {
       "__outstatic": {
@@ -302,24 +302,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c967db304419e7c4235b92fa94a04fb598ff7d4f",
-        "hash": "2613850230",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Shaishav Shah",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "About Shaishav Shah. A software developer who loves to solve complex and challenging problems.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "590b20ec47ad571cb74cf9a87d0c8f1b3956f48c",
         "hash": "619859801",
         "path": "outstatic/content/jobs/palantir-internship.md"
@@ -371,6 +353,24 @@
       "slug": "palantir-fulltime",
       "status": "published",
       "title": "Palantir - Full Time"
+    },
+    {
+      "__outstatic": {
+        "commit": "7995a56c2669a3d0d8317e996958b92bddec8ffa",
+        "hash": "53437643",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Shaishav Shah",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "About Shaishav Shah. A software developer who loves to solve complex and challenging problems.",
+      "publishedAt": "2025-12-26T06:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

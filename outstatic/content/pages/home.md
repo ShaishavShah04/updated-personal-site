@@ -7,9 +7,9 @@ author:
 slug: 'home'
 description: 'About Shaishav Shah. A software developer who loves to solve complex and challenging problems.'
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2025-12-26T06:35:07.000Z'
 ---
 
 # Shaishav Shah
 
-*A* `problem solver` *who happens to be* a `software developer`. I'm interested in data-driven applications — particularly their impact on non-tech industries.
+*A* `problem solver` *who happens to also be a* `software developer`. I'm love working on data-driven workflows — particularly, their usage within financial systems.
