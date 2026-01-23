@@ -1,6 +1,6 @@
 {
-  "commit": "7995a56c2669a3d0d8317e996958b92bddec8ffa",
-  "generated": "2025-12-25T23:16:47.181Z",
+  "commit": "001f65b4023aace94a377661344025f7e57de729",
+  "generated": "2026-01-23T22:46:03.829Z",
   "metadata": [
     {
       "__outstatic": {
@@ -356,8 +356,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7995a56c2669a3d0d8317e996958b92bddec8ffa",
-        "hash": "53437643",
+        "commit": "001f65b4023aace94a377661344025f7e57de729",
+        "hash": "2072551040",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -367,7 +367,7 @@
       "collection": "pages",
       "coverImage": "",
       "description": "About Shaishav Shah. A software developer who loves to solve complex and challenging problems.",
-      "publishedAt": "2025-12-26T06:35:07.000Z",
+      "publishedAt": "2026-01-23T06:35:07.000Z",
       "slug": "home",
       "status": "published",
       "title": "Home"
