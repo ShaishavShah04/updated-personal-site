@@ -1,6 +1,8 @@
 import ContentGrid from '@/components/content-grid'
+import { PersonJsonLd, WebSiteJsonLd } from '@/components/json-ld'
 import MDXComponent from '@/components/mdx/mdx-component'
 import MDXServer from '@/lib/mdx-server'
+import { absoluteUrl } from '@/lib/utils'
 import { load } from 'outstatic/server'
 
 export default async function Index() {
@@ -8,6 +10,21 @@ export default async function Index() {
 
   return (
     <>
+      <PersonJsonLd
+        name="Shaishav Shah"
+        jobTitle="Software Developer"
+        url={absoluteUrl('/')}
+        email="shaishav.shah04@gmail.com"
+        sameAs={[
+          'https://github.com/ShaishavShah04',
+          'https://www.linkedin.com/in/shaishavshah04/',
+        ]}
+      />
+      <WebSiteJsonLd
+        name="Shaishav Shah"
+        url={absoluteUrl('/')}
+        description="A Portfolio Website and Blog by Shaishav Shah."
+      />
       <section className="mb-16 md:min-h-[calc(100vh-256px)] items-center flex">
         <div className="prose lg:prose-2xl home-intro prose-outstatic home-hero-fade">
           <MDXComponent content={content} />

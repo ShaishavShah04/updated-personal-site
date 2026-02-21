@@ -6,13 +6,34 @@ import "@/styles/index.css";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://outstatic.com"),
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"
+  ),
   title: {
     default: "Shaishav Shah - Solving Complex Problems.",
-    template: "%s | Shaishav Shah - Solving Complex Problems."
+    template: "%s | Shaishav Shah",
   },
   description:
     "A Portfolio Website and Blog by Shaishav Shah.",
+  keywords: [
+    "Shaishav Shah",
+    "software developer",
+    "portfolio",
+    "blog",
+    "problem solver",
+    "data science",
+    "full stack developer",
+  ],
+  authors: [{ name: "Shaishav Shah" }],
+  creator: "Shaishav Shah",
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    siteName: "Shaishav Shah",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
 };
 
 export default function RootLayout({

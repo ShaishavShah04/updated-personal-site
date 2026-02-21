@@ -43,7 +43,7 @@ const ContentGrid = ({
             <div className="cursor-pointer border rounded-md md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow overflow-hidden h-full">
               <Image
                 src={item.coverImage || `/api/og?title=${item.title}`}
-                alt=""
+                alt={item.title}
                 className="border-b md:h-[180px] object-cover object-center"
                 width={430}
                 height={180}
@@ -53,13 +53,13 @@ const ContentGrid = ({
               <div className="p-4">
                 {Array.isArray(item?.tags)
                   ? item.tags.map(({ label }) => (
-                      <span
-                        key={label}
-                        className="inline-block bg-gray-200 rounded-full px-2 py-0 text-sm font-semibold text-gray-700 mr-2 mb-4"
-                      >
-                        {label}
-                      </span>
-                    ))
+                    <span
+                      key={label}
+                      className="inline-block bg-gray-200 rounded-full px-2 py-0 text-sm font-semibold text-gray-700 mr-2 mb-4"
+                    >
+                      {label}
+                    </span>
+                  ))
                   : null}
                 <h3 className="text-xl mb-2 leading-snug font-bold hover:underline">
                   {item.title}

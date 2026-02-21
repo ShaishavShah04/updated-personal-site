@@ -1,4 +1,5 @@
 import DocHero from "@/components/doc-hero";
+import { ArticleJsonLd } from "@/components/json-ld";
 import MDXComponent from "@/components/mdx/mdx-component";
 import MDXServer from "@/lib/mdx-server";
 import { absoluteUrl, ogUrl } from "@/lib/utils";
@@ -27,11 +28,16 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
   return {
     title: post.title,
     description: post.description,
+    alternates: {
+      canonical: `/posts/${post.slug}`,
+    },
     openGraph: {
       title: post.title,
       description: post.description,
       type: "article",
       url: absoluteUrl(`/posts/${post.slug}`),
+      publishedTime: post.publishedAt,
+      authors: [post.author?.name || "Shaishav Shah"],
       images: [
         {
           url: ogUrl(post?.coverImage || `/api/og?title=${post.title}`),
@@ -53,14 +59,24 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
 export default async function Post(params: Params) {
   const post = await getData(params);
   return (
-    <article className="mb-32">
-      <DocHero {...post} />
-      <div className="max-w-2xl mx-auto">
-        <div className="prose prose-outstatic">
-          <MDXComponent content={post.content} />
+    <>
+      <ArticleJsonLd
+        title={post.title}
+        description={post.description}
+        url={absoluteUrl(`/posts/${post.slug}`)}
+        datePublished={post.publishedAt as string}
+        authorName={post.author?.name || "Shaishav Shah"}
+        image={post.coverImage ? absoluteUrl(post.coverImage) : undefined}
+      />
+      <article className="mb-32">
+        <DocHero {...post} />
+        <div className="max-w-2xl mx-auto">
+          <div className="prose prose-outstatic">
+            <MDXComponent content={post.content} />
+          </div>
         </div>
-      </div>
-    </article>
+      </article>
+    </>
   );
 }
 

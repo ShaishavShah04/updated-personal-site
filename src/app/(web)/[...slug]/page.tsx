@@ -1,5 +1,6 @@
 import ContentGrid from '@/components/content-grid'
 import DocHero from '@/components/doc-hero'
+import { ArticleJsonLd } from '@/components/json-ld'
 import MDXComponent from '@/components/mdx/mdx-component'
 import MDXServer from '@/lib/mdx-server'
 import { absoluteUrl, ogUrl } from '@/lib/utils'
@@ -31,11 +32,16 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
   return {
     title: doc.title,
     description: doc.description,
+    alternates: {
+      canonical: `/${doc.collection}/${doc.slug}`,
+    },
     openGraph: {
       title: doc.title,
       description: doc.description,
       type: 'article',
       url: absoluteUrl(`/${doc.collection}/${doc.slug}`),
+      publishedTime: doc.publishedAt || undefined,
+      authors: [doc.author?.name || 'Shaishav Shah'],
       images: [
         {
           url: ogUrl(doc?.coverImage || `/api/og?title=${doc.title}`),
@@ -84,6 +90,16 @@ export default async function Document(params: Params) {
 
   return (
     <>
+      {doc.collection !== 'pages' && (
+        <ArticleJsonLd
+          title={doc.title}
+          description={doc.description}
+          url={absoluteUrl(`/${doc.collection}/${doc.slug}`)}
+          datePublished={doc.publishedAt as string}
+          authorName={doc.author?.name || 'Shaishav Shah'}
+          image={doc.coverImage ? absoluteUrl(doc.coverImage) : undefined}
+        />
+      )}
       <article className="mb-32">
         <DocHero {...doc} />
         <div className="max-w-2xl mx-auto">
@@ -166,16 +182,16 @@ async function getData({ params }: Params) {
     collection === 'pages'
       ? []
       : await db
-          .find(
-            {
-              collection: params.slug[0],
-              slug: { $ne: params.slug[1] },
-              status: 'published'
-            },
-            ['title', 'slug', 'coverImage', 'description']
-          )
-          .sort({ publishedAt: -1 })
-          .toArray()
+        .find(
+          {
+            collection: params.slug[0],
+            slug: { $ne: params.slug[1] },
+            status: 'published'
+          },
+          ['title', 'slug', 'coverImage', 'description']
+        )
+        .sort({ publishedAt: -1 })
+        .toArray()
 
   return {
     doc: {

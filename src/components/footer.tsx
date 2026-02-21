@@ -1,4 +1,4 @@
-import { GithubIcon, LinkedinIcon, MailIcon} from "lucide-react";
+import { GithubIcon, LinkedinIcon, MailIcon } from "lucide-react";
 import Link from "next/link";
 
 const Footer = () => {
@@ -16,22 +16,28 @@ const Footer = () => {
               className="text-gray-900 hover:text-gray-600 dark:text-gray-400 dark:hover:text-white mr-4"
               href="mailto:shaishav.shah04@gmail.com"
               target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Send email to Shaishav Shah"
             >
-              <MailIcon className="h-6 w-6" aria-label="Email" />
+              <MailIcon className="h-6 w-6" />
             </Link>
             <Link
               className="text-gray-900 hover:text-gray-600 dark:text-gray-400 dark:hover:text-white mr-4"
               href="https://github.com/ShaishavShah04"
               target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Shaishav Shah on GitHub"
             >
-              <GithubIcon className="h-6 w-6" aria-label="Github" />
+              <GithubIcon className="h-6 w-6" />
             </Link>
             <Link
               className="text-gray-900 hover:text-gray-600 dark:text-gray-400 dark:hover:text-white"
               href="https://www.linkedin.com/in/shaishavshah04/"
               target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Shaishav Shah on LinkedIn"
             >
-              <LinkedinIcon className="h-6 w-6" aria-label="LinkedIn" />
+              <LinkedinIcon className="h-6 w-6" />
             </Link>
           </div>
         </div>
