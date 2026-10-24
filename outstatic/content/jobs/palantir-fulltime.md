@@ -18,10 +18,12 @@ Overall, it is great though! I am happy I was able to not just learn myself, but
 
 Here's a few notable achievements from my time there (so far! I'm currently there):
 
-- **Delivered a compliant self-service credential recovery solution** with full observability, reducing user wait times from 7 days to 2 minutes, cutting support overhead, and saving \~10,000 employee hours weekly. (I loved this project!)
+- **Diagnosed duplicate execution and database contention**, then independently built distributed concurrency libraries with service-scoped work ownership, optimizing deletion by 10x+.
+- **Designed heartbeat-based leases, TTL expiration, and automated work reclamation** for node-failure recovery, owning architecture and rollout across shared libraries and services without downstream integration changes.
+- **Designed and built a Java security-policy service** leveraging just-in-time prefix tries, reducing evaluation time for comparable requests from \~3 minutes to \~200 ms (\~900x faster).
+- **Developed an agentic knowledge marketplace** spanning incident ingestion, skill synthesis, updates, conflict detection, and pruning, enabling a continuously maintained contextual-knowledge base used across agentic workflows and standalone agents, reducing token spend by 15%.
+- **Partnered with security stakeholders to deliver a compliant self-service passkey recovery solution** with identity verification and auditable event logs, reducing recovery turnaround from weeks to minutes - user wait times from 7 days to 2 minutes - cutting support overhead and saving \~10,000 employee hours weekly. (I loved this project!)
 - **Developed an AI-powered internal assistant** using a subagent architecture and MCP servers to unify Sourcegraph, Grafana, Jira, and other monitoring systems, automating root-cause analysis and accelerating incident resolution. (Metrics are a bit unknown as of writing this)
-- **Led the engineering effort** for a low-latency security service underpinning Palantir’s core access control systems, architecting backend systems that improved response times by 95% and ensured scalability for mission-critical operations.
-- **Scoped and drove large-scale projects** end-to-end, navigating complex cross-team dependencies to ensure on-time delivery and alignment with Palantir’s security and compliance requirements.
-- **Onboarded engineers** in backend development best practices, accelerating time-to-independence and raising the overall technical bar of the team.
+- **Mentored two engineers** through structured onboarding, technical guidance, and design reviews, enabling both to join the team's support rotation within 1.5 months.
 
 Enjoying it so far!

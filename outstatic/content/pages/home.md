@@ -12,4 +12,4 @@ publishedAt: '2026-01-23T06:35:07.000Z'
 
 # Shaishav Shah
 
-*A* `problem solver` *who happens to also be a* `software developer`. I'm love working on data-driven workflows — particularly, how they could benefit from AI native solutions.
+I love building things that haven't been done before.
